@@ -1,0 +1,79 @@
+body{
+    margin: 0;
+}
+main{
+    margin: 0px 110px 0 110px;
+}
+.main-area {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.big-font{
+    font-size: 80px;
+}
+.first-half{
+    width: 50%;
+    
+    
+}
+.first-half img{
+    width: 70%;
+}
+.font-color{
+    color: tomato;
+}
+.button{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(rgba(230, 139, 123, 0.89), rgba(250, 120, 152, 0.705));
+    padding: 10px 40px;
+    border-radius: 10px;
+}
+.misson-heading {
+    text-align: center;
+    font-size: 50px;
+}
+.mission-area{
+    padding: 100px;
+}
+.single-mission{
+    padding: 30px;
+    border-radius: 20px;
+    margin-right: 20px;
+}
+.single-mission img{
+    width: 50%;
+}
+.first-box-colour{
+    background-color: rgba(157, 255, 255, 0.644);
+}
+.second-box-colour{
+    background-color: rgba(194, 255, 220, 0.664);
+}
+.third-box-colour{
+    background-color: rgba(253, 196, 196, 0.664);
+}
+.work-area h1{
+    font-size: 40px;
+}
+.get-touch{
+    background-color: rgba(143, 145, 236, 0.178);
+    margin: 40px 0px 40px 0px;
+    height: 500px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 50px;
+
+}
+footer{
+    background-color: black;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer-text{
+    color: white;
+}
